@@ -16,7 +16,7 @@ GreenTech Innovation aims to use HR analytics to enhance strategic decision-maki
  
  ### Data Sources
 
-The data for this project was sourced from the Amdari Platform. You can access the dataset [here](https://api.amdari.io/dataset/127/HR%20Dataset.csv).
+You can access the dataset [here](https://api.amdari.io/dataset/127/HR%20Dataset.csv).
  
 ### Business Overview/Problem
  
